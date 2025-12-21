@@ -60,4 +60,7 @@ I made a tool to calculate the area of circles and rectangles.
 
 ---
 
-**Would you like me to show you how to add the classmate as a collaborator if you haven't done that yet?**
+"Note: I set up the .gitattributes file to track .bin files with LFS. Due to GitHub's web upload limits, I uploaded a smaller placeholder file to show the tracking is working."
+
+---
+
